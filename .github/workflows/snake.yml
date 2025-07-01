@@ -12,6 +12,6 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: analystsayan
-          outputs: |
+          outputs:  |
             dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake-dark.gif
